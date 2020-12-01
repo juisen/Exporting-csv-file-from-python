@@ -1,0 +1,5 @@
+df.to_csv("C:\\Users\\Desktop\\output.csv")
+
+df  = data file name in python
+output  = output csv file name
+
